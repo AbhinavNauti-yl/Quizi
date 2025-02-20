@@ -1,7 +1,7 @@
 <h1>📚 Interactive Quiz Platform</h1>
 The Interactive Quiz Platform is a responsive and dynamic web application built with React. It allows users to attempt quizzes, receive instant feedback, track progress, and view attempt history. The platform supports both multiple-choice and one-word answer formats.
 
-🚀 Features
+<h1🚀 Features
 
 Quiz Management:
 
@@ -22,14 +22,14 @@ Progress Tracking:
 Shows a custom-designed progress card displaying current score and question number.
 
 
-🛠️ Technologies Used
+<h1🛠️ Technologies Used
 
 Frontend: React, TailwindCSS (for custom styling)
 
 
 Deployment: Netlify
 
-💻 Getting Started
+<h1💻 Getting Started
 
 Prerequisites
 
@@ -39,8 +39,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/interactive-quiz-platform.git
-cd interactive-quiz-platform
+git clone https://github.com/AbhinavNauti-yl/Quizi.git
 
 Install dependencies:
 
@@ -50,10 +49,10 @@ Run the app locally:
 
 npm start
 
-Navigate to http://localhost:3000 to view the app.
+Navigate to http://localhost:5173 to view the app.
 
+<h3> deployment link:
 
-📂 Project Structure
 
 
 🎯 Future Improvements
