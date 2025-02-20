@@ -51,7 +51,7 @@ npm start
 
 Navigate to http://localhost:5173 to view the app.
 
-<h3> deployment link:</h3>
+<h3> deployment link:https://quiz-e.netlify.app/</h3>
 
 
 
