@@ -1,4 +1,4 @@
-📚 Interactive Quiz Platform
+<h1>📚 Interactive Quiz Platform</h1>
 The Interactive Quiz Platform is a responsive and dynamic web application built with React. It allows users to attempt quizzes, receive instant feedback, track progress, and view attempt history. The platform supports both multiple-choice and one-word answer formats.
 
 🚀 Features
